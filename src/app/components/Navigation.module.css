@@ -1,0 +1,16 @@
+.header {
+  width: 24rem;
+  height: 4rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border:  1px solid #fff;
+  border-radius: 4px;
+
+}
+.navigation {
+  width: 100%;
+  display: flex; 
+  justify-content: space-around;
+  list-style: none;
+}
