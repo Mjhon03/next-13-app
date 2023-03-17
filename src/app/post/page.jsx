@@ -1,5 +1,7 @@
-export default function PostsPage () {
+export default async function PostsPage () {
   return (
-    <h1>Esto es para los post</h1>
+    <section>
+      <h1>cualquie</h1>
+    </section>
   )
 }
